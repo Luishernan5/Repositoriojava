@@ -1,7 +1,7 @@
 
 import java.util.Random;
 
-public class dowhile{
+public class ejercicio12_dowhile{
     public static void main(String []args){
         /*
         int i=1;
