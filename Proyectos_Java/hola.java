@@ -4,7 +4,7 @@ public class hola{
         System.out.println("HOla Hernan");
         
         System.out.print("HOLA MUNDO");
-        System.out.println("");
+        System.out.println("--------");
         System.out.println("Hola Hernan");
     }
 }
