@@ -3,14 +3,14 @@ import java.util.Scanner;
 public class ejercicio1_entradadedatosterminal{
     
     public static void main(String [] args){
-        try (//valor entero
+        try (//valor entero:
         Scanner entrada = new Scanner(System.in)) {
             int valor;
             System.out.println("Escribe un numero: ");
             valor=entrada.nextInt();
             System.out.println("Tu numero es: "+valor);
         }
-        try (//valor flotante
+        try (//valor flotante:
         Scanner entrada1 = new Scanner(System.in)) {
             float valor1;
             System.out.println("Escribe otro numero: ");
