@@ -16,6 +16,7 @@ public class dowhile{
             i--;
         }while(i>=1);
         */
+        
         Random rand=new Random();
         int aleatorio=rand.nextInt(5)+1;
         System.out.println("Aleatorio: "+aleatorio);
