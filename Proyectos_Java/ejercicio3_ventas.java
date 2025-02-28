@@ -1,4 +1,4 @@
-
+//importaciones:
 import java.util.Scanner;
 
 public class ejercicio3_ventas{
