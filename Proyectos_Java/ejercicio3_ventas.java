@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class ejercicio3_ventas{
     public static void main(String []args){
-        //ingreso de datos:
+        // Ingreso de datos:
         try (Scanner ventas = new Scanner(System.in)) {
             System.out.println("Ingresa el valor del producto 1: ");
             float prod1=ventas.nextFloat();
