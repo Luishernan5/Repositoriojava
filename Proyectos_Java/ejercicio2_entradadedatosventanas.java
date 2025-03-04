@@ -19,7 +19,7 @@ public class ejercicio2_entradadedatosventanas{
         double doble = Double.parseDouble(JOptionPane.showInputDialog("Dame un numero doble: "));
         JOptionPane.showMessageDialog(null, "Este es tu numero; "+doble);
         
-        //ingreso de caracteres:
+        // Ingreso de caracteres:
         char caracter = JOptionPane.showInputDialog("Dame un caracter: ").charAt(2);
         JOptionPane.showMessageDialog(null, "Tu caracter es: "+caracter);
         
