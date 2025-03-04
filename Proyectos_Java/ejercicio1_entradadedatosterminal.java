@@ -1,4 +1,4 @@
-//importaciones
+//importaciones: 
 import java.util.Scanner;
 
 public class ejercicio1_entradadedatosterminal{
