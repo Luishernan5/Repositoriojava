@@ -1,4 +1,4 @@
-// importaciones:
+// importaciones :
 import java.util.Random;
 
 public class dowhile{
