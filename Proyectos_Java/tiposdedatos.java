@@ -6,7 +6,7 @@ public class tiposdedatos{
         mordida=126;
         System.out.println("Mordida: "+mordida);
         
-        //16 bits -32768 a 32767
+        // 16 bits -32768 a 32767
         short corto;
         corto=32000;
         System.out.println("Corto: "+corto);
