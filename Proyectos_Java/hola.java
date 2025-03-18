@@ -1,6 +1,6 @@
 public class hola{
     public static void main(String[] args){
-        //imprimir: 
+        // imprimir: 
         System.out.println("HOLA MUNDO");
         System.out.println("HOla Hernan");
         
