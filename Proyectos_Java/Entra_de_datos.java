@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Entra_de_datos{
     
     public static void main(String [] args){
-        try (//valor entero
+        try (// valor entero
         Scanner entrada = new Scanner(System.in)) {
             int valor;
             System.out.println("Escribe un numero: ");
