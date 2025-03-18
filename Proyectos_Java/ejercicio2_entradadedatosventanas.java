@@ -1,4 +1,4 @@
-//importaciones:
+//importaciones :
 import javax.swing.JOptionPane;
 
 public class ejercicio2_entradadedatosventanas{
