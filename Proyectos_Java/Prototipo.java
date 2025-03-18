@@ -19,7 +19,7 @@ public class Prototipo {
     public void insertar(String productos) {
         if (!llena()) {
             fin = siguiente(fin);
-            cola[fin] = productos; // Se añaden por el final de la cola
+            cola[fin] = productos; //Se añaden por el final de la cola
         } else {
             System.out.println("Cola llena :´c");
         }
